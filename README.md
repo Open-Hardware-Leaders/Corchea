@@ -9,4 +9,4 @@
 
 ## Education
 
-## Bioensing
+## Biosensing
