@@ -9,7 +9,7 @@
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/Corchea%20in%20lab.jpg" height="300" />
 
 ### Results
-![directed communication ](https://gph.is/g/aXJLr6A)
+<img src="https://giphy.com/gifs/L1Vt24XH6mpyPsZjr8/html5" height="300" />
 
 ## Research
 ### Poster : [Here](https://www.researchgate.net/publication/334523532_Open-Source_Paper-Fluidic_Device_for_Bacterial_Culture_Communication_and_Biocomputing)
