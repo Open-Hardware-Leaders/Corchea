@@ -2,6 +2,9 @@
 ---
 #### Paper-fluidic open science hardware for research, teaching and more.
 ---
+### Introduction
+Welcome to the Corchea repository! The name of this project comes from the musical note eighth quaver or eighth note, in spanish corchea. The first version of the device on 2017 uses two petri dishes connected with a U shaped strip of paper look very similar to corchea, more specificaly to  the unicode symbol U+266B for corchea. A musician friend makes me note that in fact that shape is a double corchea, but is too long and I have too many files with this name so it will remains as Corchea. 
+
 ### Design: 
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/Corchea%20design.png" height="300" />
 
@@ -18,3 +21,33 @@
 ## Education
 
 ## Biosensing
+## Lets work together!
+Here is a list of possible tasks you can help with. Remember that you can help in things that are not in this list, just contact us and tell us how you want to cooperate or what do you want to do.
+
+**Hardware:**
+- Designing/optimizing the paper-fluidic setup
+- Customizing the design to your needs
+- Testing the setup
+
+**Software:**
+- Creating/optimizing analysis code
+- Recognition and segmentation of objects
+- Deep learning CNN, LSTM, RNN
+- Tensorflow implementations
+
+**Biology:**
+- Creating/testing biosensors
+- Creating/modifying/testing genetic constructions
+- Implementing new reporters (fluorescent, colorimetric, enzimatic, etc)
+- Biomaterials
+
+**Content:**
+- Creating new educational content using Corchea
+
+**Using the device and give us feedback, we will apreciate it!**
+
+## Why we should work together?
+If you like to learn doing projects, you are a maker or you just want to contribute this is a fun open-source interdisciplinary project to be part of. It uses, 3D printing, laser cut, paper-based microfluics, microbiology, synthetic biology, data science. Did I mention that is also low-cost so it is not expensive to replicate, and you can do it in the comfort of your home or lab (with apropiate sterility protocols if necessary). So yeah, what are you waiting for? an invitational letter?
+*(This message count as invitational letter)*
+
+Also is highly probable that the results  will be published in an Open Acces peer-reviewed scientific journal or at least a BioRxiv preprint and you can be a co-author!
