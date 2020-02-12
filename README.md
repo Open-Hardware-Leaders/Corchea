@@ -3,7 +3,7 @@
 #### Paper-fluidic open science hardware for research, teaching and more.
 ---
 ### Introduction
-Welcome to the Corchea repository! The name of this project comes from the musical note eighth quaver or eighth note, in spanish corchea. The first version of the device on 2017 uses two petri dishes connected with a U shaped strip of paper look very similar to corchea, more specificaly to  the unicode symbol U+266B for corchea. A musician friend makes me note that in fact that shape is a double corchea, but is too long and I have too many files with this name so it will remains as Corchea. 
+Welcome to the Corchea repository! The name of this project comes from the musical note quaver or eighth note, in spanish corchea. The first version of the device on 2017 used two petri dishes connected with a U shaped strip of paper look very similar to corchea, more specificaly to  the unicode symbol U+266B for corchea. A musician friend makes me note that in fact that shape is a double corchea, but is too long and I have too many files with this name so it will remains as Corchea. 
 
 ### Design: 
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/Corchea%20design.png" height="300" />
@@ -43,6 +43,7 @@ Here is a list of possible tasks you can help with. Remember that you can help i
 
 **Content:**
 - Creating new educational content using Corchea
+- Creating new experiments using Corchea
 
 **Using the device and give us feedback, we will apreciate it!**
 
