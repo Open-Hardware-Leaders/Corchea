@@ -36,6 +36,8 @@ Here is a list of possible tasks you can help with. Remember that you can help i
 - Tensorflow implementations
 
 **Biology:**
+- Microbiology
+- Environmental microbiology
 - Creating/testing biosensors
 - Creating/modifying/testing genetic constructions
 - Implementing new reporters (fluorescent, colorimetric, enzimatic, etc)
