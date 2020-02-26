@@ -5,6 +5,8 @@
 ### Introduction
 Welcome to the Corchea repository! The name of this project comes from the musical note quaver or eighth note, in spanish corchea. The first version of the device on 2017 used two petri dishes connected with a U shaped strip of paper look very similar to corchea, more specificaly to  the unicode symbol U+266B for corchea. A musician friend makes me note that in fact that shape is a double corchea, but is too long and I have too many files with this name so it will remains as Corchea. 
 
+<img src="https://www.escribircanciones.com.ar/images/teoriamusical/imagenesdenotasmusicales/corcheadoble.png" height="300" />
+
 ### Description
 Corchea use paper capilarity to move fluids across the paper, like candles or plants. There are two regimes, [capilarity](https://en.wikipedia.org/wiki/Capillary_action) when paper is dry and wet-flow when paper is fully wet by the [Darcy Law](https://en.wikipedia.org/wiki/Darcy%27s_law). 
 
