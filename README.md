@@ -1,4 +1,5 @@
-# Corchea
+# Corchea  <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea%20logo%200.png" height="180" />
+
 ---
 #### Paper-fluidic open science hardware for research, teaching and more.
 ---
