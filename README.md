@@ -3,11 +3,30 @@
 ---
 #### Paper-fluidic open science hardware for research, teaching and more.
 ---
-### Introduction
+## In this README you will find:
+[Introduction](https://github.com/Open-Hardware-Leaders/Corchea#introduction)
+
+[Preview](https://github.com/Open-Hardware-Leaders/Corchea#workflow)
+
+[Research](https://github.com/Open-Hardware-Leaders/Corchea#research)
+
+[Description](https://github.com/Open-Hardware-Leaders/Corchea#description)
+
+[Education](https://github.com/Open-Hardware-Leaders/Corchea#education)
+
+[Biosensing](https://github.com/Open-Hardware-Leaders/Corchea#biosensing)
+
+[Lets work together!](https://github.com/Open-Hardware-Leaders/Corchea#lets-work-together)
+
+[Why we should work together?](https://github.com/Open-Hardware-Leaders/Corchea#why-we-should-work-together)
+
+
+## Introduction
 Welcome to the Corchea repository! The name of this project comes from the musical note quaver or eighth note, in spanish corchea. The first version of the device on 2017 used two petri dishes connected with a U shaped strip of paper look very similar to corchea, more specificaly to  the unicode symbol U+266B for corchea. A musician friend makes me note that in fact that shape is a double corchea, but is too long and I have too many files with this name so it will remains as Corchea. 
 
 <img src="https://www.escribircanciones.com.ar/images/teoriamusical/imagenesdenotasmusicales/corcheadoble.png" height="300" /><img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea%20version%201.png" height="300" /> 
 
+## Preview
 ### Design: 
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea%20design.png" height="300" />
 
@@ -21,7 +40,7 @@ Welcome to the Corchea repository! The name of this project comes from the music
 ### Poster : [Here](https://www.researchgate.net/publication/334523532_Open-Source_Paper-Fluidic_Device_for_Bacterial_Culture_Communication_and_Biocomputing)
 ### Protocol: [Here](https://www.protocols.io/view/corchea-paper-based-microfluidic-device-vtwe6pe)
 
-### Description
+## Description
 Corchea use paper capilarity to move fluids across the paper, like candles or plants. There are two regimes, [capilarity](https://en.wikipedia.org/wiki/Capillary_action) when paper is dry and wet-flow when paper is fully wet by the [Darcy Law](https://en.wikipedia.org/wiki/Darcy%27s_law). 
 
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea_BE1.png" height="300" />
@@ -37,7 +56,9 @@ In our design both ends of the paper are at the same side making it easy to plug
 ## Education
 
 ## Biosensing
+
 ## Lets work together!
+
 Here is a list of possible tasks you can help with. Remember that you can help in things that are not in this list, just contact us and tell us how you want to cooperate or what do you want to do.
 
 **Hardware:**
