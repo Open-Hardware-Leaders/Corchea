@@ -6,7 +6,7 @@
 ## In this README you will find:
 [Introduction](https://github.com/Open-Hardware-Leaders/Corchea#introduction)
 
-[Preview](https://github.com/Open-Hardware-Leaders/Corchea#workflow)
+[Preview](https://github.com/Open-Hardware-Leaders/Corchea#preview)
 
 [Research](https://github.com/Open-Hardware-Leaders/Corchea#research)
 
