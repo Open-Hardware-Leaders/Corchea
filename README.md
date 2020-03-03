@@ -27,7 +27,7 @@ Welcome to the Corchea repository! The name of this project comes from the music
 <img src="https://www.escribircanciones.com.ar/images/teoriamusical/imagenesdenotasmusicales/corcheadoble.png" height="300" /><img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea%20version%201.png" height="300" /> 
 
 ## Preview
-### Design: 
+### Design Corchea v3: 
 <img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea%20design.png" height="300" />
 
 ### In the lab: 
